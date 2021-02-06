@@ -5,7 +5,7 @@ public class Caculation {
 		// TODO Auto-generated method stub
 		int x=7;
 		int y=2;
-		System.out.println("Multiply "+ (y*y+x));
+		System.out.println("Multiply "+ (y*y+x*y+x));
 
 	}
 
