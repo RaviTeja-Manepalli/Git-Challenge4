@@ -6,7 +6,7 @@ public class Caculation {
 		int z=5;
 		int x=7;
 		int y=2;
-		System.out.println("Multiply "+ (z*y*x));
+		System.out.println("Multiply "+ (z+y*x));
 
 	}
 
