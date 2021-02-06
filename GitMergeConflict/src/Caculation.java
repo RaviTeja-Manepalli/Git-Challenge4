@@ -8,6 +8,8 @@ public class Caculation {
 		int g=89;
 		System.out.println("Multiply "+ (r*r*f+r));
 		System.out.println("addition" + (f+r+g));
+		int y=2;
+		System.out.println("Multiply "+ (y*f*f+y));
 
 	}
 
