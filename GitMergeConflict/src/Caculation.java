@@ -5,9 +5,9 @@ public class Caculation {
 		// TODO Auto-generated method stub
 		int f=7;
 		int r=2;
-		int u=89;
+		int s=89;
 		System.out.println("Multiply "+ (r*r*f+r));
-		System.out.println("addition" + (f+r+u));
+		System.out.println("addition" + (f+r+s));
 		int y=4;
 		System.out.println("Multiply "+ (y*f*f+y));
 		
