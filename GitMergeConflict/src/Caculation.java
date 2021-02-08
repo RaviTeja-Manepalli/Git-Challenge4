@@ -10,6 +10,7 @@ public class Caculation {
 		System.out.println("addition" + (f+r+1));
 		int y=4;
 		System.out.println("Multiply "+ (y*f*f+y));
+		System.out.println("shdgchsgchs");
 		
 
 	}
