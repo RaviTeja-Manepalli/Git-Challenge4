@@ -6,6 +6,9 @@ public class Add {
 		int a=5;
 		int d= 7;
 		System.out.println(a+d);
+		int e=5;
+		int c= 7;
+		System.out.println(e*c);
 
 	}
 
